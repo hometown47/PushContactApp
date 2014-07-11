@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>865AD960-559C-435F-8560-91B3B6E84056</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PushChatStarter</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>436F86EC-9639-4CC4-910E-850718027979</key>
+		<string>https://github.com/hometown47/pushcontactapp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PushChatStarter.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>436F86EC-9639-4CC4-910E-850718027979</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/hometown47/pushcontactapp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>436F86EC-9639-4CC4-910E-850718027979</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>436F86EC-9639-4CC4-910E-850718027979</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PushContactApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
